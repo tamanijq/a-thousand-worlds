@@ -9,3 +9,4 @@ data/*.csv
 data/*.txt
 src/assets/covers
 .env
+.firebase
